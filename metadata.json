@@ -1,0 +1,6 @@
+{
+  "name": "SK Cotrage",
+  "description": "Premier fantasy sports app to build your dream cricket teams, join leagues, win cash contests, and track live scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
